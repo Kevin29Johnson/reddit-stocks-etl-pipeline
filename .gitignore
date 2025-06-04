@@ -7,7 +7,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-astro
+.astro/
 .venv
 airflow-webserver.pid
 webserver_config.py
